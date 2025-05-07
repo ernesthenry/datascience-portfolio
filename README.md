@@ -27,6 +27,15 @@ If you found this project helpful, consider giving it a
   git clone https://github.com/{yourusername}/portfolio.git
   ```
 * Install the packages
+
+  ```
+  nvm install 20
+  ```
+
+   ```
+  nvm use 20.19.1
+  ```
+
   ```
   npm install
   ```
