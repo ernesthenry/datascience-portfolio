@@ -9,7 +9,6 @@ The page mainly uses React and MUI and is inspired by open-source components.
 
 Feel free to use this project as a template, and please give a small credit by linking back to this project.
 If you found this project helpful, consider giving it a 
-[star](https://github.com/ernesthenry/portfolio/stargazers) [⭐](https://github.com/ernesthenry/portfolio/stargazers)
 
 **[Live Demo](https://ernesthenry.github.io/portfolio/)**
 
@@ -24,7 +23,7 @@ If you found this project helpful, consider giving it a
   ```
 * Clone your fork
   ```
-  git clone https://github.com/{yourusername}/portfolio.git
+  git clone https://github.com/{ernesthenry}/portfolio.git
   ```
 * Install the packages
 
